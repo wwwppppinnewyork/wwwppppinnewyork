@@ -13,6 +13,7 @@ I work on quantitative equity research: factor models, machine-learning stock ra
 | [ai-stock-Top-20](https://github.com/wwwppppinnewyork/ai-stock-Top-20) | A-share multi-factor pipeline: point-in-time data, linear baselines (z-score, ICIR, WLS), LightGBM / XGBoost ranking, JoinQuant execution with lot-aware sizing, and a rebalance-timing study |
 | [byd-rl-trading](https://github.com/wwwppppinnewyork/byd-rl-trading) | Deep Q-learning on BYD (002594.SZ). After a code review and a 10-seed rerun, no seed beat buy and hold out of sample |
 | [qqq-factor-analysis](https://github.com/wwwppppinnewyork/qqq-factor-analysis) | Is the Nasdaq-100 premium alpha or factor risk? Fama-French regressions, diagnostics, Newey-West inference (Columbia University) |
+| [fintext-nlp-mini](https://github.com/wwwppppinnewyork/fintext-nlp-mini) | Mini reproduction of a Chinese financial-text pipeline: crawling, jieba, TF-IDF, BERT, PCA, sentiment and topic models, risk features, SQLite |
 
 ## Skills
 
